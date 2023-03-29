@@ -1,1 +1,1 @@
-# learn-react
+# React template and learn React
